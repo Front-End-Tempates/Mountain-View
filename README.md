@@ -1,0 +1,1 @@
+Basic Single page Template
